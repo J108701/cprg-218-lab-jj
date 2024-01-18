@@ -30,7 +30,7 @@ Instructions:
 
 ### Bruschetta
 
-Ingredients1:
+Ingredients:
 - 1 French baguette, sliced diagonally
 - 2 tomatoes, diced
 - 1/2 red onion, diced
