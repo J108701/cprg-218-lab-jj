@@ -1,0 +1,9 @@
+# Ignore macOS specific files
+.DS_Store
+.localized
+
+# Ignore Visual Studio Code directory
+Visual Studio Code.app/
+
+# Ignore the "\342\236\225/" file (this is a unicode character)
+"\342\236\225/"
