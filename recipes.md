@@ -113,3 +113,13 @@ Instructions:
 7. Drop tablespoon-sized balls of dough onto ungreased baking sheets.
 8. Bake for 82 to 100 minutes or until golden brown.
 9. Cool on wire racks.
+
+### Donut Ice Cream Sandwiches
+
+Ingredients：
+- 1 maple bacon bar donut
+- 1/2 cup butter pecan ice cream, slightly softened
+
+Instructions:
+1. Cut maple bacon bar in half, then cut each piece in half horizontally.
+2. Spread the bottom of each bar donut half with butter pecan ice cream. Place the cut donut tops onto the ice cream. Serve immediately.
