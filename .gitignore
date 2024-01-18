@@ -5,8 +5,11 @@
 # Ignore Visual Studio Code directory
 Visual Studio Code.app/
 
-# Ignore the "\342\236\225/" file (this is a unicode character)
+# Ignore the "\342\236\225/" file 
 "\342\236\225/"
 
-"\342\236\225/"
+
+
+
+
 
