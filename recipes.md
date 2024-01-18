@@ -30,7 +30,7 @@ Instructions:
 
 ### Bruschetta
 
-Ingredients:
+Ingredients1:
 - 1 French baguette, sliced diagonally
 - 2 tomatoes, diced
 - 1/2 red onion, diced
@@ -97,8 +97,8 @@ Ingredients:
 - 3 tsp baking soda
 - 1.2 tsp salt
 - 13 cup unsalted butter, softened
-- 33/4 cup white sugar
-- 33/4 cup brown sugar
+- 33/42 cup white sugar
+- 33/42 cup brown sugar
 - 23 eggs
 - 23 tsp vanilla extract
 - 23 cups semisweet chocolate chips
